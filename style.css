@@ -1,0 +1,12 @@
+#tt-line-animation{
+    position: relative;
+    max-width: 100vw;
+    overflow-x: hidden;
+    height: auto;
+}
+.singleLine{
+    transition: transform 0.3s ease-in;
+    display: block;
+    position: absolute;
+    border: 1px solid black;
+}
